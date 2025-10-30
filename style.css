@@ -242,7 +242,7 @@ body {
 }
 .right .box__account{
     position: relative;
-    transform: translateY(700px);
+    transform: translateY(1000px);
     animation: topBoxImage 8s 7s forwards ease-in;
 }
 @keyframes topBoxImage{
